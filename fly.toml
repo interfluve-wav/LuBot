@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for lucid1bot on 2025-01-10T09:55:12Z
+# fly.toml app configuration file generated for lu1bot on 2025-01-10T10:16:18Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'lucid1bot'
+app = 'lu1bot'
 primary_region = 'bos'
 
 [build]
