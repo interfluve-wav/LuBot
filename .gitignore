@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.DS_Store
+.bot.lock
+messages_id.json
+support_queries.json

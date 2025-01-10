@@ -1,0 +1,21 @@
+{
+  "name": "lucid-dreams-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/bot.js",
+    "dev": "nodemon",
+    "verify": "node src/verify.js",
+    "kill": "node src/kill.js",
+    "export": "node src/export.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.3.1",
+    "node-schedule": "^2.1.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

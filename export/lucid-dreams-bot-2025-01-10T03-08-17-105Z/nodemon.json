@@ -1,0 +1,7 @@
+{
+  "watch": ["src"],
+  "ext": "js",
+  "ignore": ["*.log", "*.json", "node_modules", ".bot.lock"],
+  "exec": "node src/bot.js",
+  "delay": "2000"
+}
